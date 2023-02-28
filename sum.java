@@ -1,10 +1,10 @@
 //hello 
 public class sum
 {
-public static void main(string[]args)
+public static void main(String[]args)
 {
 int a,b,sum;
- Scanner sc=newScanner(system.in);
+ Scanner sc=new Scanner(System.in);
  System.out.println("enter the first value");
  a=sc.nextint();
  System.out.println("enter the sec value");
